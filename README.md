@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sergio 👋
 
-<!--
-**Checho-Aguirre/Checho-Aguirre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇪🇸 [Versión en español](README.es.md)
 
-Here are some ideas to get you started:
+Junior developer from **Armenia, Quindío, Colombia** 🇨🇴, building real mobile apps and learning in public.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Systems Engineering background, heading into Software Engineering
+🌎 English: B2 (certified)
+🛠️ Hardware lover: I build and maintain PCs from scratch
+
+## 🚀 Featured project: AGX Notes
+An **offline-first notebook app for programmers**, built for Android tablets.
+- Rich text editor with **syntax-highlighted code blocks** (14 languages)
+- **SQLite + FTS5** full-text search, backup/restore with JSON
+- Runs on devices **without Google services** (HarmonyOS)
+- Spanish / English, light and dark themes
+- Startup optimized from 6.6 s to **2.7 s**
+
+`React Native` `Expo` `TypeScript` `SQLite` `Tiptap` `Android`
+
+## 🔨 In progress
+**AGX Balance**: personal finance + daily tasks app (React Native, Supabase, Vercel)
+
+## 🧰 Tech I work with
+`TypeScript` `JavaScript` `React Native` `Expo` `HTML` `CSS` `SQL` `Git` `Supabase` `Linux (WSL)`
+
+## 🤖 How I build
+I use AI-assisted development (Claude Code) as a tool, but I make the decisions, test on real devices and learn the why behind every line.
+
+📫 chechoaguirre0930@gmail.com
